@@ -6,7 +6,6 @@
 /docs/Makefile
 /docs/make.bat
 /docs/conf.py
-/lib
 /*.tgz
 /.yalc
 yalc.lock
